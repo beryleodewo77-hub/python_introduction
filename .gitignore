@@ -1,0 +1,9 @@
+.venv/
+.env
+
+
+#git init
+# git add .
+# git commit -m "eee"
+#git remote add origin https://github.com/beryleodewo77-hub/python_introduction.git
+#git push -u origin master
