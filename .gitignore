@@ -2,6 +2,8 @@
 .env
 *.webm
 *.txt
+!requirements.txt
+.idea/
 
 #git init
 # git add .
