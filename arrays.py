@@ -57,3 +57,6 @@ people = [{"name": "Dora", "age": 88, "height": 78},
           {"name": "Jilly", "age": 48, "height": 88}
           ]
 print(people[0]["name"])
+
+
+

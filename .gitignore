@@ -1,6 +1,7 @@
 .venv/
 .env
-
+*.webm
+*.txt
 
 #git init
 # git add .
