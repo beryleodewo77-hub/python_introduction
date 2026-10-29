@@ -1,7 +1,7 @@
 import yt_dlp
 
-
 ydl_opts = {
+    'ffmpeg_location': r'C:\ffmpeg\bin',
     'format': 'bestaudio/best',
     'postprocessors': [
         {
@@ -14,4 +14,3 @@ ydl_opts = {
 
 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     ydl.download(['https://www.youtube.com/watch?v=FG9M0aEpJGE&list=RDwlufFyuxKYM&index=11'])
-
