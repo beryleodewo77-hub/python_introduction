@@ -1,6 +1,6 @@
 
 class Circle:
-    def __init__(self, radius):#setup data
+    def __init__(self, radius:int):#setup data
         self.radius = radius
 
     def area(self):
