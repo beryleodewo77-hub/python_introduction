@@ -65,3 +65,8 @@ people = [
 ]
 sorted_by_age = sorted(people, key=lambda x: x["age"] , reverse=True)
 print(sorted_by_age)
+
+#  example to test modules...
+
+def my_function(a:int, b:float, ):
+    return a/b

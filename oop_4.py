@@ -28,5 +28,5 @@ c1 = ContractEmployee("Jin Hound","jh@gmail.vom","HR",90000.00,3)
 p1.show_details()
 c1.show_details()
 
-# TODO overriding
+# TODO overriding   changes the behaviour of an inherited class from the parent
 #oop python on YouTube tutorials
